@@ -4,11 +4,12 @@
   "created_by": "SteveMarvin",
   "title": "Interview with Dorothy Gallagher, 4 April 2001",
   "slug": "interview-with-dorothy-gallagher-4-april-200",
-  "updated_at": "2025-05-06T19:43:11.014Z",
+  "updated_at": "2025-05-06T20:17:50.935Z",
   "updated_by": "SteveMarvin",
   "autogenerate": {
     "enabled": true,
     "type": "event",
     "type_id": "ea212690-2939-48b4-8dcf-abbc2d4fc607"
-  }
+  },
+  "parent": "308e7f3a-2b19-4c2a-abaa-876ae895ea00"
 }
