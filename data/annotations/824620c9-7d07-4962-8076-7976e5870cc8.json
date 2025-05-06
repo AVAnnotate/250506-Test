@@ -1,5 +1,5837 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 7,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "link",
+              "url": "https://just-the-docs.com/docs/layout/layout/",
+              "children": [
+                {
+                  "text": " No, just water."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Alice Walker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "390b5ac8-770a-42b0-8432-e31abf233444"
+    },
+    {
+      "start_time": 7,
+      "end_time": 12,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Where are you coming from? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mel Gussow"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "b4d1a132-4b9b-45b9-96a6-53efb50c7ef0"
+    },
+    {
+      "start_time": 12,
+      "end_time": 32,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " I'm coming from the Rosie O'Donnell show and followed by a really nice walk around Washington  Square Park where I used to walk when I lived on that square. Yes, and I went and I looked  at the building and I couldn't even remember walking in and out of the door. So strange."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Alice Walker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "f70ba9f9-cafa-4595-8478-908c19bb7ed4"
+    },
+    {
+      "start_time": 33,
+      "end_time": 35,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " This was the late 60s when you were in there?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mel Gussow"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "a6835380-7213-4b7a-8b53-1624a4fc286f"
+    },
+    {
+      "start_time": 35,
+      "end_time": 50,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes. I was living with my boyfriend who I later married in his dorm room in the NYU student housing which is right on the park and we looked out over the tree top so she was very nice."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Alice Walker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "1d02a50b-b40a-4a4f-8f34-a67a260f8e5c"
+    },
+    {
+      "start_time": 51,
+      "end_time": 66,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's strange because we've lived down the village for a long time and it's been a lot of time since we went outside and was very young around Washington Square Park and then down to Washington Square Village which we still all the time. Which would have struck in fact as we're leading to the late 60s."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mel Gussow"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "67eb866e-7211-46ed-999e-c82324eb2b79"
+    },
+    {
+      "start_time": 66,
+      "end_time": 74,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We were probably passing each other all the time if you know it. I'm going to go wash my hands because I've been falling off. Do you know where the restroom is?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Alice Walker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "bb0a7cca-c0f3-4923-a9c3-245d0fd90722"
+    },
+    {
+      "start_time": 91,
+      "end_time": 98,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " It's probably right there."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mel Gussow"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "2cf3dcaf-682c-467a-8d45-b048fa0fe598"
+    },
+    {
+      "start_time": 98,
+      "end_time": 101,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Okay, be right back."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Alice Walker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "3fca5cfe-1623-4af0-8858-37099ae4a286"
+    },
+    {
+      "start_time": 101,
+      "end_time": 102,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " When was your daughter born again?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mel Gussow"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "14d67bb7-e1f9-48f9-8620-6a6e136ec161"
+    },
+    {
+      "start_time": 102,
+      "end_time": 103,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " She always says I forget. 69."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Alice Walker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "2cbc4141-b515-466b-82ff-d85059e9620a"
+    },
+    {
+      "start_time": 103,
+      "end_time": 104,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " 69? So she was even a little bit younger than my son."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mel Gussow"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "e25d9e50-4227-4569-ae31-134ae0595c34"
+    },
+    {
+      "start_time": 104,
+      "end_time": 108,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " How old is your son?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Alice Walker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "ffe72804-edac-438f-a308-c56f76278943"
+    },
+    {
+      "start_time": 108,
+      "end_time": 109,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " He was born in 67."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mel Gussow"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "80395e9d-e212-4295-8c54-623e3f7ed99d"
+    },
+    {
+      "start_time": 109,
+      "end_time": 110,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Oh yeah."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Alice Walker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "b49b9ec1-44aa-4f3a-802e-2b648bd50dbe"
+    },
+    {
+      "start_time": 120,
+      "end_time": 127,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Again, we used to be down there a lot. It suddenly crossed my mind. We might have actually passed past.  Anyway, I was curious as a…"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mel Gussow"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "7775476b-f3e6-4f3f-8ee8-455955d5c174"
+    },
+    {
+      "start_time": 127,
+      "end_time": 129,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Cheers."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Alice Walker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "3707c3b8-fdf9-4ab0-a63f-7e436c9ccbf6"
+    },
+    {
+      "start_time": 129,
+      "end_time": 130,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Cheers."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mel Gussow"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "45e119fa-7ae1-459f-8fab-7cc0c5fdcb5f"
+    },
+    {
+      "start_time": 130,
+      "end_time": 137,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " We survived it all."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Alice Walker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "b847e6b7-0ad1-4e5b-a618-0c215bb605ef"
+    },
+    {
+      "start_time": 137,
+      "end_time": 140,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Survived a lot as a matter of fact."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mel Gussow"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "dbea76f7-b76b-4846-b2f4-11abf6971aef"
+    },
+    {
+      "start_time": 140,
+      "end_time": 142,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Yeah."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Alice Walker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "6eafa7a9-f3d2-4212-8be3-4fa1de176e53"
+    },
+    {
+      "start_time": 142,
+      "end_time": 146,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " So I think about those early days in 1970. We were next door to that house that flew  up on West 11th Street where the weathermen had their explosion. They were bombed out of our house that very day in fact."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mel Gussow"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "093e062b-d843-40ec-87ce-3afb546d2b5f"
+    },
+    {
+      "start_time": 146,
+      "end_time": 148,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Oh my goodness."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Alice Walker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "77bf8dcc-e96a-4c4e-9b6e-e55268e5731b"
+    },
+    {
+      "start_time": 148,
+      "end_time": 149,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " The wall just fell down from our building."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mel Gussow"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "1b7d6293-41b3-4228-93be-a2f3a8851617"
+    },
+    {
+      "start_time": 149,
+      "end_time": 150,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Wow."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Alice Walker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "404b476c-2939-4f42-8483-0819e0a8a952"
+    },
+    {
+      "start_time": 150,
+      "end_time": 151,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Terrible. It was sort of like the end of the 60s."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mel Gussow"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "91f5ba3a-1627-4c0f-9b15-3b5fbee840bd"
+    },
+    {
+      "start_time": 151,
+      "end_time": 154,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Really?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Alice Walker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "531d1de8-5860-421b-b1b0-f5a4cdec0abd"
+    },
+    {
+      "start_time": 154,
+      "end_time": 166,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Yeah.  Right next door.  Next door. To the so-called bomb factory."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mel Gussow"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "1b158600-672c-450b-930b-ffad3eb2ac1f"
+    },
+    {
+      "start_time": 166,
+      "end_time": 175,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Wow. I bet that was a shock."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Alice Walker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "06b8331e-95c3-4421-84ef-e2170ed6435d"
+    },
+    {
+      "start_time": 175,
+      "end_time": 194,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " It was a shock for my wife and for Dustin Hoffman's wife. They were both outside the building when it just blew up in their face. She just picked up our sign at nursery school  and it was literally the end of the 60s and the end of a lot of... Well, not to get a one digression, but I must say the event itself then and thereafter had a strong effect not only on my family but also the people in the neighborhood."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mel Gussow"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "2e9cd033-63f2-4c07-854e-6f2b2fd8481c"
+    },
+    {
+      "start_time": 194,
+      "end_time": 199,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Oh, I imagine."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Alice Walker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "86633fe3-0c58-49f1-9279-4ced8fae0bc2"
+    },
+    {
+      "start_time": 199,
+      "end_time": 219,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " About the 60s, there were so many of us. If we weren't radical, we certainly were borderline  radical. After that, there was a lot of second thinking about whether the violence had any  justification at all. Their mission when they blew up the house accidentally was to blow  up the library at Columbia University. But you've gone through so much of this."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mel Gussow"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "9711a850-444b-49cc-ab2e-396bef5238b4"
+    },
+    {
+      "start_time": 219,
+      "end_time": 235,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Yeah. The violence is not going to work. I mean, I don't care who's doing it. There's  just no end to it. But that must have been such a shock because home is where you feel  so safe."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Alice Walker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "e3e979f2-c921-44f4-8bb4-9f17ac8971a5"
+    },
+    {
+      "start_time": 235,
+      "end_time": 253,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Well, that's part of it. It's your home and your private home. But that's what I was  looking to. It's a strong theme in your work. I mean, your opposition to violence has been a little closer to the people I'm talking to."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mel Gussow"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "38b393fc-291d-4513-8449-4012a2e18b6e"
+    },
+    {
+      "start_time": 253,
+      "end_time": 264,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Well, yeah, I know in my own life what suffering it causes. And in a way, it just isn't radical  enough. Violence is not radical enough."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Alice Walker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "948a405e-3282-46df-96ea-d4d0690a6f10"
+    },
+    {
+      "start_time": 264,
+      "end_time": 267,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " And not radical enough. What about social change?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mel Gussow"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "5977e86e-cc51-4d87-ba84-faf7cb740c03"
+    },
+    {
+      "start_time": 267,
+      "end_time": 275,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Well, actually, love is more radical than violence. And it's more subversive generally.  And it's harder to do. And that's why people would rather have violence."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Alice Walker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "52527404-1f32-494f-8ed2-28b4498c6a0d"
+    },
+    {
+      "start_time": 275,
+      "end_time": 284,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " It's easier to pick up a gun or a bomb."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mel Gussow"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "e0452f5c-114b-4b90-a0f1-e2b9646b9472"
+    },
+    {
+      "start_time": 284,
+      "end_time": 293,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Much easier than actually coming to love somebody. Or just to be compassionate. It takes a lot more courage."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Alice Walker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "a0d29e47-e84b-4055-9b6c-559a56f91279"
+    },
+    {
+      "start_time": 301,
+      "end_time": 308,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Let me also say this. It's sometimes hard to understand when I read your work the fact  that you can love people who have been violent, brutal, perhaps even evil. I mean, you talk,  for example, about your grandfather who was a devil, you say, in some way. And yet you..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mel Gussow"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "9a442021-5e62-4428-ae83-b882380eb044"
+    },
+    {
+      "start_time": 308,
+      "end_time": 309,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " I adored him."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Alice Walker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "8cf57a3c-e968-43f0-888d-38d1baf6617e"
+    },
+    {
+      "start_time": 309,
+      "end_time": 314,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Well, you say, not only forgive him, I guess, but you adored him."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mel Gussow"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "48e3ac05-546b-4311-a3bd-517e5217b76e"
+    },
+    {
+      "start_time": 314,
+      "end_time": 318,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " I adored him. I adored him. And I still do."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Alice Walker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "7e20bc56-ce12-4bb1-8124-b22ee719cdbf"
+    },
+    {
+      "start_time": 318,
+      "end_time": 319,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " How is that possible?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mel Gussow"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "000bc3c7-da30-4ac2-89bd-eeea561acf0c"
+    },
+    {
+      "start_time": 319,
+      "end_time": 329,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " It's possible because he was a devil before I knew him. It was a lot harder to forgive  my father, whom I knew, you know, in his devil-ness."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Alice Walker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "68922ea7-2096-48af-bed0-5c547738dcde"
+    },
+    {
+      "start_time": 329,
+      "end_time": 339,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " I see."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mel Gussow"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "6c0eaa18-911f-4c37-85b2-29099cd98383"
+    },
+    {
+      "start_time": 339,
+      "end_time": 373,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " But with my grandfather. And that taught me that people do change. And they change radically.  Because the man that used to shoot his gun at my grandmother and chase her through the cornfields was not the man I knew. The man I knew was very mellow, very thoughtful, very  cornfields was not the man I knew. The man I knew was very mellow, very thoughtful, very  loving of me, very happy to have me around, and very civil to her. So this was someone  that I knew about almost as a... That earlier part, almost as a legend. And... that I knew about almost as a... That earlier part, almost as a legend. And…"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Alice Walker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "8a0389fc-778c-4b16-abce-40159bd30161"
+    },
+    {
+      "start_time": 373,
+      "end_time": 378,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " You'd heard the stories before this."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mel Gussow"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "a42bed20-124e-40e2-aa0b-9a4b9df58ac9"
+    },
+    {
+      "start_time": 378,
+      "end_time": 467,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Oh, yeah. Oh, I mean, yes. And they were told with such gusto, which was shocking to me.  Even as a child. I mean, I couldn't really laugh, I have to say, because I loved my grandmother.  And so in the telling of a story about her being chased by this wild man, who was an  alcoholic, I didn't understand that either for many years. He was an alcoholic.  And alcoholism had actually come into our family through our Irish line, the Irish, Scottish Irish drunkards, overseers. Which is another story about just how you get certain  traits in your family. Anyway... But I loved her. She was a really sweet, long suffering, patient, good cooking woman. And so when people were laughing at her fear, I felt a chill. It was a real fear, obviously. Oh, absolutely. It was real. So I feel that I was born partly\n to heal that, to look at it and to see who they both were in essence. And I think who he was in essence, non-alcoholic and non-crazy and non-violent, was a basically thoughtful\n person. And a gentle person."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Alice Walker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "3a3c1742-d226-42bb-beda-4610f7e966c6"
+    },
+    {
+      "start_time": 467,
+      "end_time": 473,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " And he was the role model for Mr. Herbert?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mel Gussow"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "6ad25697-ebc0-4dae-9ad8-4141fbdec850"
+    },
+    {
+      "start_time": 473,
+      "end_time": 482,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Yes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Alice Walker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "6bb533b3-5e81-40c2-958b-6d4ea0124ac2"
+    },
+    {
+      "start_time": 482,
+      "end_time": 505,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, it's very interesting. I find it a lot that you seemingly not only forgive but also love. And I suppose just moving ahead to the new book, which obviously to me is inspired by your marriage, which was terribly happy, you say, and then over and being friends and whatever, it's hard to comprehend that, I guess."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mel Gussow"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "2631d25f-4f82-413f-96e0-7a1c54909529"
+    },
+    {
+      "start_time": 505,
+      "end_time": 575,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " He's a very good man. He's a very, very good person. So it's not really hard. And I think  what's really hard is just that you could care a lot for someone and not want to live with them anymore. And your life is calling you somewhere else. And that's pretty much what happened on top of just being really exhausted from being in the situation that we were in. It was too much. We should have known better. But we didn't. We were young and we thought that we could really... And we did. We changed Mississippi a lot. Especially my former husband and his colleagues. They saw that a lot of the desegregation, new laws were enforced. They represented people like... People who really reminded me so much of my parents and grandparents, really poor people, for the first time had someone to defend them. So it took its toll. But there's no blame. And that's what you..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Alice Walker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "1744f8da-8159-4c45-8a3d-431d7a5cce0d"
+    },
+    {
+      "start_time": 575,
+      "end_time": 584,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Well, this is the question, I guess. Why isn't there blame?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mel Gussow"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "8ceeeb60-aacf-4ab3-9a0d-0ca3594a44e9"
+    },
+    {
+      "start_time": 584,
+      "end_time": 591,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " It's because everybody gets really tired. And I have learned in my own life that..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Alice Walker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "b1f62208-db0e-48af-8ae0-8f23cf389a7e"
+    },
+    {
+      "start_time": 591,
+      "end_time": 669,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Going back to your grandfather for a moment, with him I suppose it wasn't a matter of being tired but partly it was a matter of the..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mel Gussow"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "893613d2-938f-4a0d-8d18-5e1bd88ec378"
+    },
+    {
+      "start_time": 669,
+      "end_time": 678,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Drunk."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Alice Walker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "75827ff8-9f14-43f1-b317-54897dfe3b57"
+    },
+    {
+      "start_time": 678,
+      "end_time": 691,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Well, yes, but I was going to say also the acceptance, the traditionalness that this was an allowable approach in those times in that situation."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mel Gussow"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "06803fb6-5bee-4fb4-942a-93663c1eb438"
+    },
+    {
+      "start_time": 691,
+      "end_time": 738,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Well, it was because he had no other outlet for this kind of anger. If he had been angry at the white people who were actually the basic oppressors, he would have been killed right away. And he knew that. And so his anger got twisted and it was the very extremely remarkable African American man who was able to see what that was, that you had to be very careful not to misdirect the anger. If you were angry at the abuse of the overseer, the boss, whoever he was, to find some other way to deal with it rather than hurting your family.  This is a very difficult thing."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Alice Walker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "554cd56d-606c-495a-b2e0-543e8cd03dc7"
+    },
+    {
+      "start_time": 738,
+      "end_time": 740,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " And it was true in your father's day as well as your grandfather's day."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mel Gussow"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "8c3f87c4-af5a-4584-a982-af0942b4b13b"
+    },
+    {
+      "start_time": 749,
+      "end_time": 757,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Oh yes, right. And some people handled it, you know, there were a few men who were known  to be men who, no matter what, they never abused their family. Never. And they were of course really looked up to."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Alice Walker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "f890bfd7-b124-4ef0-8caf-b428ed9c6830"
+    },
+    {
+      "start_time": 757,
+      "end_time": 758,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Have you been here before?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mel Gussow"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "397608e9-3963-4df5-9b47-16885e23bb68"
+    },
+    {
+      "start_time": 758,
+      "end_time": 764,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Never. What do you recommend?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Alice Walker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "59617c77-8083-4b11-83e2-be4d5be31663"
+    },
+    {
+      "start_time": 764,
+      "end_time": 765,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Everything."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mel Gussow"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "5daa3385-5c74-4a92-a556-8f9db96d229c"
+    },
+    {
+      "start_time": 779,
+      "end_time": 791,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Oh good, okay."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Alice Walker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "f5764faa-b322-41f0-9c76-4bd738a4beb7"
+    },
+    {
+      "start_time": 791,
+      "end_time": 797,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Except for the spicy fried shrimp, oh boy, that's the one loser on the menu."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mel Gussow"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "69f4dea1-e9f0-441b-aedd-c7dde282e785"
+    },
+    {
+      "start_time": 797,
+      "end_time": 802,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Okay, alright."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Alice Walker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "8ec7fa16-60c2-4073-a0ce-57f132ebdd25"
+    },
+    {
+      "start_time": 802,
+      "end_time": 806,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I just want to emphasize the specials that we have today because we recommend the CNC  scallops that we serve with a celery root puree that's been emulsified with white wine and then olive oil so it has a consistency of creaminess, a little cream sauce, but it's not as heavy."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Waiter"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "42e542ca-728f-432a-bcd5-da1d539a68a0"
+    },
+    {
+      "start_time": 806,
+      "end_time": 811,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Did you say scallops?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mel Gussow"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "9d66fd6e-0ffb-4bf9-a99e-e0c6c70f523d"
+    },
+    {
+      "start_time": 811,
+      "end_time": 812,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Scallops, yeah."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Waiter"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "1b11390f-28bd-4553-97f3-df2020d0320d"
+    },
+    {
+      "start_time": 812,
+      "end_time": 813,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Oh, that sounds very good."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Alice Walker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "848a5129-3082-46cf-90fc-021428a34728"
+    },
+    {
+      "start_time": 813,
+      "end_time": 815,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " We have a lot of beans and a kind of nest of chanterelle and shiitake mushrooms that are sauteed together."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Waiter"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "5394018c-d738-4e4b-a13a-b9dcb67c845e"
+    },
+    {
+      "start_time": 815,
+      "end_time": 820,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " I think I want that."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Alice Walker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "d876a0cc-1d7c-492c-a550-2d45e973be65"
+    },
+    {
+      "start_time": 820,
+      "end_time": 821,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " It's wonderful."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Waiter"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "cfa8c844-e18f-455e-841e-9b7636e8d50c"
+    },
+    {
+      "start_time": 821,
+      "end_time": 822,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Yeah."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Alice Walker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "29844e0d-d05a-4772-8e70-8984eef95bae"
+    },
+    {
+      "start_time": 822,
+      "end_time": 823,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " We also have a house-made veal, braised chanel and ravioli. Not in that case, though."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Waiter"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "4a706150-cf89-4837-a05a-b2b890bbd033"
+    },
+    {
+      "start_time": 823,
+      "end_time": 824,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " I'll stop."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Alice Walker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "afe2f753-2714-4bb4-bf12-c0fe8ff42866"
+    },
+    {
+      "start_time": 824,
+      "end_time": 829,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Well, you can go out there."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mel Gussow"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "d067c97e-815e-4164-83e8-52f2d905b41f"
+    },
+    {
+      "start_time": 829,
+      "end_time": 832,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " No, but I should stop."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Alice Walker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "6b3a2396-06ca-47f9-9bca-20b9d8b26198"
+    },
+    {
+      "start_time": 832,
+      "end_time": 835,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Scallops as well."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mel Gussow"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "da704b20-7a7c-4e3f-a3b6-f69d551c64a2"
+    },
+    {
+      "start_time": 835,
+      "end_time": 838,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Scallops as well. Excellent. Shall I start you two with some salads perhaps? Green salad?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Waiter"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "2b6c8f0c-698e-42f6-a31f-045cb5721dfd"
+    },
+    {
+      "start_time": 838,
+      "end_time": 843,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Well, does this come with some kind of vegetables that you said?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Alice Walker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "41a2c1a4-0e5e-40aa-9514-331e040f8fac"
+    },
+    {
+      "start_time": 843,
+      "end_time": 845,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Just the beans and the mushroom combination."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Waiter"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "e28a30f3-9249-493d-9891-eef995a8c3bb"
+    },
+    {
+      "start_time": 845,
+      "end_time": 846,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Oh, yeah. Okay. If you have a small green salad, that would be good."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Alice Walker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "af779e82-6bf2-4adb-94f2-346948dd9215"
+    },
+    {
+      "start_time": 846,
+      "end_time": 848,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Anything else you drink an iced tea?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Waiter"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "27683fe2-4644-4767-bfcb-041a9dd938ef"
+    },
+    {
+      "start_time": 853,
+      "end_time": 858,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Iced tea would be good."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Alice Walker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "dbc82a56-e356-4fcd-8748-aaec697c9194"
+    },
+    {
+      "start_time": 858,
+      "end_time": 859,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Yeah."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mel Gussow"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "a1bf68b3-f5be-4afe-afe5-f41b30c6fbb0"
+    },
+    {
+      "start_time": 859,
+      "end_time": 860,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " I got to start with the water."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Waiter"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "e4a131ce-3856-488a-8225-21664cc88c66"
+    },
+    {
+      "start_time": 860,
+      "end_time": 872,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Anyway, the new book, I realize that some of the stories go back to the earlier, mid-80s  than today."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mel Gussow"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "04535c19-2ad7-43f6-98c5-bb74a5b1f665"
+    },
+    {
+      "start_time": 872,
+      "end_time": 879,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Yes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Alice Walker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "97559c5f-08eb-498d-b338-49986dc43f84"
+    },
+    {
+      "start_time": 879,
+      "end_time": 883,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " What provoked you to do it now? What brought it together with you?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mel Gussow"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "238380b0-514e-499c-8429-c6318af38869"
+    },
+    {
+      "start_time": 883,
+      "end_time": 953,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Well, you know, it was sitting on my desk for a while, all except the last story.  And I was not going to publish it. And I was in Hawaii, and I was talking to a friend, and she said, I'm really waiting for your next book. And I said, well, it's there on my desk. And she said, what? This was Mililani Trask. I don't know if you know any Hawaiian politics, but she is a very fierce defender of the rights of Hawaiian people. And it started with thinking about completing it and how to complete it and what the significance of it is, you know. And I saw that in writing the memoir about my marriage, the other stories seem to be growing out of it. They represent, in a way, the freedoms and the difficulties that I encounter after leaving that marriage, which have been such a cocoon in many ways."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Alice Walker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "1254280c-326c-4c35-b8cf-70a8a6d4557d"
+    },
+    {
+      "start_time": 953,
+      "end_time": 960,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " The marriage was."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mel Gussow"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "dffb2553-5996-4e92-9f64-18105601ca31"
+    },
+    {
+      "start_time": 960,
+      "end_time": 1001,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " The marriage was, because the man that I had married had been so, you know,  just very protective and very present and very loyal in many ways, you know, just very dependable. And so after that marriage and after, for him it was impossible to maintain a friendship, which as an Aquarian, friendship is first. It comes before marriage even, you know. But anyway, so the stories I could see represented the freedom, but also some of the terrors, you know, of being outside of a marriage that had been very cocoon-like, at least in its early stages."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Alice Walker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "b741da72-c95b-4ddc-a0cc-8d8a4c3f2ac8"
+    },
+    {
+      "start_time": 1001,
+      "end_time": 1007,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Did you ever think about connecting the characters and keeping the same names of the characters,  whether factual or not, and make it more novelistic?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mel Gussow"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "483d0e5d-ccdf-44a8-a909-51410e6cc36d"
+    },
+    {
+      "start_time": 1007,
+      "end_time": 1018,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " No, no, because I thought about doing that and then it didn't feel right.  I wanted it to be just more the way it was."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Alice Walker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "4fbdf9a0-6ad3-4db7-8a86-4ddb1246f142"
+    },
+    {
+      "start_time": 1018,
+      "end_time": 1024,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Are they different people, would you say?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mel Gussow"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "6193b43b-47f3-468e-8051-4bf4976e4765"
+    },
+    {
+      "start_time": 1024,
+      "end_time": 1124,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Some of them are, but of course some of them aren't."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Alice Walker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "0d838ce0-cc7c-4233-9908-1850e87ada4e"
+    },
+    {
+      "start_time": 1124,
+      "end_time": 1128,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Olive oil as well, is that also restorative?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mel Gussow"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "93827515-ec12-4541-9cb2-6589eaf7f03c"
+    },
+    {
+      "start_time": 1128,
+      "end_time": 1192,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Yes, absolutely, absolutely.  And the little things that we do for each other when we love each other can have such healing. I mean, and you never really know sometimes where that's going to happen. I mean, who would think that the fact that someone liked the way you smelled when you had oiled yourself with olive oil, loved the way you looked shiny with olive oil, I mean, you know, how would you know that that would be such a healing thing, that you would suddenly feel seen, accepted, loved, natural, you know, that someone could see you and love you in your naturalness? And what an increase then in the degree of intimacy you would have with such a person. I mean, just that little thing, such a wonderful thing. So that was part of why I wanted to write these stories like this."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Alice Walker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "901fc1d4-313a-4cf9-80fb-767b8db389c6"
+    },
+    {
+      "start_time": 1192,
+      "end_time": 1193,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " The first story came last?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mel Gussow"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "10b27d3a-5ebe-4658-8936-3766d9710e8b"
+    },
+    {
+      "start_time": 1193,
+      "end_time": 1214,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Later, in any case.  It did, because you know, it came after, you mean the memoir, the little one?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Alice Walker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "49622bde-83d8-434d-9ee6-2e17884cf071"
+    },
+    {
+      "start_time": 1214,
+      "end_time": 1224,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Yes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mel Gussow"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "8a38270c-a55c-4a05-b974-3ae4fe61dd11"
+    },
+    {
+      "start_time": 1225,
+      "end_time": 1243,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, it came, yes, I think so, except for The Brotherhood of the Saved, that came absolutely last.  Because I, by then, was ready to transform all of this into a story that was just fiction, just art, but with the spirits of my parents and my spirit in it, as we might have been had we done these things."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Alice Walker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "4a74d483-70de-42cd-8f1e-728268a9bc54"
+    },
+    {
+      "start_time": 1243,
+      "end_time": 1260,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Could you describe what the, admittedly there are somewhat, there are different characters along the way,  but sort of the arc of the characters, how they would change from 1984, or whatever the first one was, till now, in your eyes, is there really a big change?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mel Gussow"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "e702263c-310f-42cd-86f5-77571de69ead"
+    },
+    {
+      "start_time": 1260,
+      "end_time": 1265,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " A big change?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Alice Walker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "edeaffe0-4275-43d3-81b9-db5da4d81dd7"
+    },
+    {
+      "start_time": 1265,
+      "end_time": 1309,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " It's a change in, you know, how they grow, and how they perceive the world.  I'm thinking now, let's see, of Suni and Anne, who in the 60s were in love with the same man. One was married to him, and the other one wanted to be with him, and then they had this whole thing with, you know, doing the 60s thing, where you all go off together, you, the other woman, the man, and the baby.  You're speaking from experience, right?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mel Gussow"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "f4198087-fac0-4ee8-8896-b86e5f648913"
+    },
+    {
+      "start_time": 1309,
+      "end_time": 1400,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Oh yeah. I mean, we tried everything, it was just so amazing.  And then years later, you look back on that, and it's, you know, it was crazy. I mean, it was, but really good crazy. I mean, I don't mean, you know, it's a good thing to have done, because we were trying to see if we could do this, you know, this transformation that always had failed around us. We'd never seen anybody do that. We'd never known anybody who, you know, if you fell in love with someone's husband, and then you, you know, talked to the wife, and she said, well, maybe we can all work this out, and, you know, it's all very, you know. But then years later, they come back around, and they're older, and they realize that, you know, whatever they were working out with this man, they've done it, and now they're free. I mean, they're free, and they're going on to do something else. So one of them is, you know, going to listen to Guru Mai, and loves that life, the meditative life and the guru life. And the other one is telling about this young man who has appeared out of nowhere, and that she is having a wonderful time with, and it's a platonic relationship. I mean, you know, they just go on."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Alice Walker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "65db18bd-1849-4910-879e-71e1c764963d"
+    },
+    {
+      "start_time": 1400,
+      "end_time": 1410,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " In any case, you haven't thought about publishing the book for a while."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mel Gussow"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "a2e0671c-26f0-4583-887e-a0356932837c"
+    },
+    {
+      "start_time": 1410,
+      "end_time": 1418,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " It was sitting there."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Alice Walker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "874d5a4a-70b1-479c-a427-e60fdbd92c19"
+    },
+    {
+      "start_time": 1418,
+      "end_time": 1425,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " It was sitting there."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mel Gussow"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "762f67ab-abbd-4689-b29f-a63a3b46df6f"
+    },
+    {
+      "start_time": 1425,
+      "end_time": 1433,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Oh, and then the other thought was that I'm not sure I want to keep writing.  I think that I feel like this is the end of a 30-year cycle,  and it's a really good time for me to think about what I want to do for the other 30 years."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Alice Walker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "9a9bb090-7cc9-4f00-b9b6-54dd205f3a6c"
+    },
+    {
+      "start_time": 1433,
+      "end_time": 1436,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Really?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mel Gussow"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "3eadba72-d08f-4502-b067-cf6c5702829a"
+    },
+    {
+      "start_time": 1436,
+      "end_time": 1444,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Yes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Alice Walker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "5be228dd-191e-469d-926f-a1898552be68"
+    },
+    {
+      "start_time": 1444,
+      "end_time": 1448,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " In fact, you started writing 30 years ago. You started publishing 30 years ago."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mel Gussow"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "a5f2e36b-45dd-4ff5-b680-bdd6c8053b3a"
+    },
+    {
+      "start_time": 1448,
+      "end_time": 1455,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Yeah, and it's been quite a while.  So I felt that part of this is to sort of complete that cycle, and it really does."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Alice Walker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "33a6b76f-bf0d-47e5-9ec7-81ed798ce84c"
+    },
+    {
+      "start_time": 1455,
+      "end_time": 1456,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " It was published in 1970, so actually this is your..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mel Gussow"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "b3af834b-0df4-4ede-94e5-cc38746030d7"
+    },
+    {
+      "start_time": 1456,
+      "end_time": 1459,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " And then before that, it was the 68th, my first poetry."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Alice Walker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "ca4ad679-dbe7-4eaf-ac59-dc7e8b4db16c"
+    },
+    {
+      "start_time": 1459,
+      "end_time": 1460,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Yeah, so it's 30 years."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mel Gussow"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "acea6b97-fc76-44d2-8750-e63b4a86fc22"
+    },
+    {
+      "start_time": 1460,
+      "end_time": 1462,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " So it is 30 years."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Alice Walker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "1b3e350a-6000-4d34-88a6-9057e9a33e55"
+    },
+    {
+      "start_time": 1462,
+      "end_time": 1471,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Yeah, amazing. I mean, that's a lot of writing."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mel Gussow"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "d0e78343-e2bf-4f82-9506-80aae93a0dfb"
+    },
+    {
+      "start_time": 1471,
+      "end_time": 1481,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " It's different a lot."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Alice Walker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "7d43e439-e0e3-4091-bd90-0e19659ccdda"
+    },
+    {
+      "start_time": 1481,
+      "end_time": 1487,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Yeah."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mel Gussow"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "e578f005-a3bd-4578-b6a3-99d94972a7fd"
+    },
+    {
+      "start_time": 1487,
+      "end_time": 1525,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " So I spend a lot of time now studying the Dharma, and I'm just really happy sitting contemplating. What is the thing inside now? What is the real internal imperative now? Because I don't want to be doing something that no longer really moves me, and I want to be sure that whatever is coming next is as essential as what I feel has gone before. I mean, everything that I have written in my life has felt really...  I feel like I had no choice."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Alice Walker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "b3a78845-94a2-466a-8c30-aa2938419bc7"
+    },
+    {
+      "start_time": 1525,
+      "end_time": 1528,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " No choice?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mel Gussow"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "77a5959f-4689-460c-8ac2-0a19f1b12ca4"
+    },
+    {
+      "start_time": 1528,
+      "end_time": 1556,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " No choice, yeah. And I have to say, I like that. I like that feeling, and I don't want to enter another cycle of writing because I know the commitment it takes without feeling that. So I'm just going to see."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Alice Walker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "91306786-dc00-432a-86af-d017319b1795"
+    },
+    {
+      "start_time": 1556,
+      "end_time": 1568,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " You used the expression, no choice, but somebody came across one of the books where you said you called yourself a medium. I was wondering whether you feel that as well."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mel Gussow"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "088abf31-09ee-4cee-996c-89c2b5c5dd22"
+    },
+    {
+      "start_time": 1568,
+      "end_time": 1633,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Well, what I was trying to convey... There's not this thing about channeling or no work, just sitting there. I mean, it all takes a lot of work. But what I was trying to convey was that, especially in The Color Purple, and to some degree in The Temple of My Familiar, I really fell into a kind of grace. I really felt I was in a kind of grace that permitted me to faithfully create what was really real about these people. And it felt like mediumship. It felt so... It just felt like they were there."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Alice Walker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "b630f964-d6ee-454f-9900-33e3ef7a2765"
+    },
+    {
+      "start_time": 1633,
+      "end_time": 1636,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Was The Color Purple handed down to you?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mel Gussow"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "ec778ec5-c85d-4237-92ee-a210d582e3ad"
+    },
+    {
+      "start_time": 1636,
+      "end_time": 1679,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " It's not like it's handed down, but it feels like my ancestors were just really happy. Just really happy and really there. And I woke with them and I slept with them. And I just felt like... You know, just this absolute feeling of being lucky in that connection, that being able to feel them. I actually felt like both their child and in some ways their servant, because I felt like I changed my life entirely in order to hear. I was living here in New York and I went there. I lived for a while in the country. So I could really hear them."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Alice Walker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "316485de-bc28-40c7-a424-f5b3909c74f6"
+    },
+    {
+      "start_time": 1679,
+      "end_time": 1683,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Was there a moment when you were swimming?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mel Gussow"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "38c0206b-6737-4003-9f2e-d1f2788e3dd1"
+    },
+    {
+      "start_time": 1683,
+      "end_time": 1685,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Yeah, I was in New York."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Alice Walker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "edeb0474-001c-4ed9-89ef-646508809ce0"
+    },
+    {
+      "start_time": 1685,
+      "end_time": 1699,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Keep people with The Color Purple for a moment. I think you said at what point that it came while you were swimming, while you were running. It sounded quite almost mystical to me."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mel Gussow"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "ca842927-354b-477c-9cd1-c642615bea2e"
+    },
+    {
+      "start_time": 1699,
+      "end_time": 1707,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " It was. I was so happy."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Alice Walker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "1c7f7635-26da-464b-8075-259f4250f3b4"
+    },
+    {
+      "start_time": 1707,
+      "end_time": 1712,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Could you go back and remember the actual moment when it began?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mel Gussow"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "e2c6d0a8-24b7-4591-b096-115c3192b224"
+    },
+    {
+      "start_time": 1712,
+      "end_time": 1825,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " I think I was in New York. I was an editor at Ms. Magazine for a while. And I guess the unconscious was trying to work it out, because I had a dream in which I had bought a little tiny house in Park Slope. This was after I had left the big house with my former husband and I tried to live in a little apartment on Garfield Place. I bought a tiny little house. It was like 12 feet wide. It was a sliver of a house in Park Slope. And I was commuting back and forth. I had this dream in which I went down to the basement of my house. It's interesting because Jung had a dream like this, but mine is different of course. I went down to the basement of my house and discovered a door to a sub-basement, which I didn't know was there. And I went down there and it was just filled with people making things. And they were people I had never... I didn't know them. They all seemed to be South American. And they were all speaking Spanish. So I think that that particular dream eventually led to the Temple of my Familiar, where the people are Spanish-speaking and South American. But I think I knew that the deeper layer of my consciousness was trying very much to emerge. And then I started to hear snippets of dialogue between Shug and Albert, Shug and Sealy."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Alice Walker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "87ea1ded-44fc-4264-b5e3-c0f9f75160f8"
+    },
+    {
+      "start_time": 1829,
+      "end_time": 1831,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " As members of your family or as characters?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mel Gussow"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "80ddceb8-95ef-4211-8f96-2b2bb2f385a1"
+    },
+    {
+      "start_time": 1831,
+      "end_time": 1838,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " As characters. No, not members of my family and not characters. Spirits really of themselves."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Alice Walker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "feabf969-e9be-4c9a-99d5-965015ae9ba2"
+    },
+    {
+      "start_time": 1839,
+      "end_time": 1846,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " With names attached to them?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mel Gussow"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "c0fffc35-f215-46f1-b01e-7e019a7a14e8"
+    },
+    {
+      "start_time": 1846,
+      "end_time": 1878,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Not yet, no. Just a way of speaking. A tone of voice, an attitude. And I realized that they didn't really get through here. I could hear little snippets, almost like a radio, where you just pass by and you hear a little slogan or something. But that in order to get it really clearly and whole, I would have to be somewhere else.  So I moved."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Alice Walker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "bb3963bc-9174-479d-bbbb-d96322147b12"
+    },
+    {
+      "start_time": 1878,
+      "end_time": 1883,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Actually, you were not swimming or running through a field  when you thought it was boring? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mel Gussow"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "cc3bcfb7-a6d9-40db-8b83-bf18147aea2e"
+    },
+    {
+      "start_time": 1883,
+      "end_time": 1898,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Well, it started here, but then when I got there, that's when it really happened. Running through the fields, swimming, because they had all of the time, they had all of my attention. Absolutely. They really..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Alice Walker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "19a3a8f7-4122-46c4-91f5-ef7443228fc0"
+    },
+    {
+      "start_time": 1898,
+      "end_time": 1901,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " I mean, it's about serving your art."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mel Gussow"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "3b057285-c747-4664-892f-40523974ef1a"
+    },
+    {
+      "start_time": 1901,
+      "end_time": 1943,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Well, it's about knowing when to serve the art, I guess, whether it's just a delusion or a creative act that you have. And I think the foundation of it was love. I loved my grandparents and I loved my parents. It just was heartbreaking to think that somehow they wouldn't survive. I mean, who they were, the way they sounded. They wouldn't survive in a form that was really thankful to them and loving of them and not interested in caricature."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Alice Walker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "c75ee2ef-9e0c-4f3c-a4eb-648f2c1df19e"
+    },
+    {
+      "start_time": 1943,
+      "end_time": 1945,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Only through art they could survive?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mel Gussow"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "aeab9fd0-82d6-42f5-bf2b-6a1fe0ce1c34"
+    },
+    {
+      "start_time": 1945,
+      "end_time": 1946,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " I think so, yeah."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Alice Walker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "d665e3b7-962c-45e8-814f-ecd868ba2b53"
+    },
+    {
+      "start_time": 1946,
+      "end_time": 1947,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Once you began to become very fast?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mel Gussow"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "042cd193-7b34-4693-b532-2d61969a61db"
+    },
+    {
+      "start_time": 1949,
+      "end_time": 1951,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Yes, I did."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Alice Walker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "ab774af5-06fd-459b-b4ce-bca7fb97ce78"
+    },
+    {
+      "start_time": 1952,
+      "end_time": 1954,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " You heard it wrong?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mel Gussow"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "0b0c5e86-e346-42fa-8d1c-b837fdc07c44"
+    },
+    {
+      "start_time": 1954,
+      "end_time": 1959,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "  Yes. And I wrote it almost like dictation."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Alice Walker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "8a55d842-afec-49c5-be58-817b36b68667"
+    },
+    {
+      "start_time": 1959,
+      "end_time": 1972,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " That was part of why I read that, and why I thought the medium thing struck me again, as if you're possessed, in a sense."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mel Gussow"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "00a64cb4-5835-4151-844d-fbd73b772194"
+    },
+    {
+      "start_time": 1972,
+      "end_time": 2022,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Well, inspired. I didn't feel possessed. I just felt far possessed by love, maybe. But I remember there was an article in the New York Times Magazine section after it was published. And they actually photographed some of the pages of my notebook. I just had a little spiral notebook. Because you can see that it is just exactly, you know, it's just exactly. And that goes back, though, to being in a family where I had to hide things. I mean, I couldn't, I had to keep a lot in my mind. I mean, I don't, you know, it feels magical, but it really, when I thought about it, it was from a habit of really letting things form in my mind."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Alice Walker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "62820c30-435d-4f02-a371-0eb7b729cf34"
+    },
+    {
+      "start_time": 2022,
+      "end_time": 2023,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " It was more practical than magical, maybe."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mel Gussow"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "300938fe-c499-49bb-b061-801e7970d66d"
+    },
+    {
+      "start_time": 2023,
+      "end_time": 2026,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " More practical. Absolutely. Yeah."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Alice Walker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "08e59855-6c3b-4242-9aca-1dba341c2c3b"
+    },
+    {
+      "start_time": 2027,
+      "end_time": 2032,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " And the stories themselves, some of them came from your family's life."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mel Gussow"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "53820ce0-1274-41cb-9794-a37d8817f243"
+    },
+    {
+      "start_time": 2035,
+      "end_time": 2036,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " These stories?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Alice Walker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "7ad05c88-0d0a-49cd-b73d-8138005b9319"
+    },
+    {
+      "start_time": 2036,
+      "end_time": 2042,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Yeah. Well, the stories in the Color Purple, for example."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mel Gussow"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "08512ffd-e074-4d77-b3c3-39c0fc7937b0"
+    },
+    {
+      "start_time": 2043,
+      "end_time": 2092,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Well, vaguely, what is more true to say is that it's the, it's more like the spirit. I mean, I didn't point to real facts exactly, often. Maybe a few. Like, for instance, my grandmother did have two children who died before she married my grandfather. Now, this had been, you know, part of the story of their relationship. But because I loved her, I wanted her to have her own children, so I just created some for her. And because she never went anywhere, I sent her, you know, off to travel.  And, I mean, it's, it was so wonderful."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Alice Walker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "b4a2abac-da59-45d8-886a-ca637480403a"
+    },
+    {
+      "start_time": 2093,
+      "end_time": 2095,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " You were able to give more lives to her."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mel Gussow"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "f06b02bd-9fb8-45ee-b3f0-86eab7c1bc11"
+    },
+    {
+      "start_time": 2096,
+      "end_time": 2117,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " I just gave them adventure and, you know, travel and clothes and money.  And, you know, I just gave them everything I could give them."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Alice Walker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "541ca59a-81d1-4b06-a192-8fea9aa1ec80"
+    },
+    {
+      "start_time": 2117,
+      "end_time": 2121,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " And your mother didn't actually get to read Color Purple. She was sick."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mel Gussow"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "79b7c106-6924-4948-8d1b-0611a7c3c0b5"
+    },
+    {
+      "start_time": 2122,
+      "end_time": 2128,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " She was sick. She liked the movie, though. She liked the movie."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Alice Walker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "c1625725-ecfb-404a-840e-f4bb0a6e8551"
+    },
+    {
+      "start_time": 2128,
+      "end_time": 2136,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " But anyway, you were saying that Color Purple and the Temple were the two books that you felt that about, that they came?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mel Gussow"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "686fd1a2-1e46-48d1-897b-4276b0cea208"
+    },
+    {
+      "start_time": 2136,
+      "end_time": 2174,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Yeah. Very strongly. So they're connected in that way, and it's even more full-blown in The Temple of My Familiar because often I was writing about people that I, you know, had no experience with in the flesh. I mean, I'd read things. I visited countries."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Alice Walker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "96337948-ebaf-4b06-ac2d-ce61df5e5b52"
+    },
+    {
+      "start_time": 2176,
+      "end_time": 2186,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " You said a while ago that, for about the 30 years, could you live without writing?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mel Gussow"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "42c2a601-a674-4139-a2a0-e8e681611f5a"
+    },
+    {
+      "start_time": 2186,
+      "end_time": 2252,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " I didn't tell. I've always resisted the belief that, you know, whatever it is that you do, you have to do it always. And also I just want the feeling of freedom, you know, so that if there is more writing, if there's another cycle, you know, that starts, or if there's even one more book, it'll feel like a gift, you know, to me. It'll feel like, you know, great, I'm still connected. And it won't feel like, you know, labor, which I'm not really into. I mean, I work hard, but I wanted to feel that, I wanted to be more than just writing a book. I wanted to mean that I'm connected to creation, basically."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Alice Walker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "58083138-2efd-4f85-9b24-952bbdc33115"
+    },
+    {
+      "start_time": 2257,
+      "end_time": 2273,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Well, you've produced a lot since Color Purple."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mel Gussow"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "c94bc0b8-0c03-4b30-a42b-ebf0f12c0780"
+    },
+    {
+      "start_time": 2275,
+      "end_time": 2290,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " And always, in a way, you know, kind of tottering around in surprise, you know."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Alice Walker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "b12c666c-a9f6-4a1f-b767-513e0b48f4be"
+    },
+    {
+      "start_time": 2290,
+      "end_time": 2293,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " I mean, just really..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mel Gussow"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "0fc0fc57-f33d-4de7-9558-20cfe5c5799e"
+    },
+    {
+      "start_time": 2293,
+      "end_time": 2316,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " I don't know how many people know this, but there's actually a real ecstatic side to writing when you really are in the current, you know, with the rest of creativity in the world.  Even when it's really horrible, like writing about, writing possessing the secret of joy, which was very difficult, I was so happy that I was allowed to write it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Alice Walker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "6bcb2c5e-0eb7-4cf4-99d7-1a24f5110c16"
+    },
+    {
+      "start_time": 2316,
+      "end_time": 2320,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Oh, can you imagine?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mel Gussow"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "c887ccc7-7c43-4ce0-9b5b-dc06ce2a85a9"
+    },
+    {
+      "start_time": 2320,
+      "end_time": 2336,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "  Can you imagine?And all that had gone into making it possible for me to see it, and to feel it, you know, and to be able to look at it without just running like, you know, a really very disturbed person that I was."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Alice Walker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "d2700d1a-569a-43a9-8143-5d080c5b7d6c"
+    },
+    {
+      "start_time": 2336,
+      "end_time": 2339,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " The best part is the actual writing of it?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mel Gussow"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "5a05e1d9-fd94-4038-88e5-08258580394a"
+    },
+    {
+      "start_time": 2339,
+      "end_time": 2344,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Yes, oh, everything else is very far down the line.  Like fame, success, wide readership, all those factors."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Alice Walker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "a1e13b1b-bd01-4f96-a612-f45ed7ca3066"
+    },
+    {
+      "start_time": 2345,
+      "end_time": 2360,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Like fame, success, wide readership.  Yeah.  You'll find this easily. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mel Gussow"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "84b08706-2a15-4c28-8d65-b5be0dd1a5ee"
+    },
+    {
+      "start_time": 2360,
+      "end_time": 2366,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " When you met Langston Hughes, what was fame to me? It seemed too far away, even in content play."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Alice Walker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "703a6363-b45a-4941-ad4c-bba2e243c4cb"
+    },
+    {
+      "start_time": 2366,
+      "end_time": 2368,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Well, it wasn't too long thereafter, when fame descended or ascended on you."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mel Gussow"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "b8474d1c-0216-4624-b31f-bb812453322f"
+    },
+    {
+      "start_time": 2368,
+      "end_time": 2374,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " I don't think I noticed.  My family always say, Mom, you are so oblivious, you never notice anything."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Alice Walker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "bf0bdd6c-3a46-4134-bdfb-96698a34ae46"
+    },
+    {
+      "start_time": 2374,
+      "end_time": 2378,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " But it's true, I mean..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mel Gussow"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "98d0cb6b-839c-4531-bc4b-959a002cee1a"
+    },
+    {
+      "start_time": 2378,
+      "end_time": 2392,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Well, the telephone rang more, there was more mail."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Alice Walker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "05623663-1143-4a1c-af73-db72497b35d1"
+    },
+    {
+      "start_time": 2392,
+      "end_time": 2394,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Well, there was mail, oh God, yes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mel Gussow"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "2307af21-2ee6-4263-9295-ebc7800f0bf4"
+    },
+    {
+      "start_time": 2394,
+      "end_time": 2412,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " You know, I had to move to a bigger house and all that.  But, yeah, it's, you know, when you're writing it and it's going well, and you really hear the people and you know that they're alive, well, you know, it's kind of like giving birth."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Alice Walker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "9157dc29-7c6e-430e-bb0f-e692aacdb09a"
+    },
+    {
+      "start_time": 2412,
+      "end_time": 2425,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Really.  It's sort of funny, a number of women who are novels that I've talked to have said something similar in Buggy the Bird.  A number of male novelists and playwrights that I've talked to regard the creative act almost as if it were carpentry. Something like, for one, Athol Fugard is going on, a great letter. He gets out his tools, his utensils, and he sits there."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mel Gussow"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "c7577748-2477-4793-829c-7ba6e38875c6"
+    },
+    {
+      "start_time": 2425,
+      "end_time": 2431,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Wow."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Alice Walker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "41f26524-eb70-499d-8cd4-0a45aa5e2939"
+    },
+    {
+      "start_time": 2431,
+      "end_time": 2434,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " And then there's Arthur Miller's another one, creating a table."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mel Gussow"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "ec136477-9ca5-408e-8e0d-8da8a94b624c"
+    },
+    {
+      "start_time": 2434,
+      "end_time": 2436,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Right."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Alice Walker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "4174bd7b-3e80-4a1e-8431-540c85ee5530"
+    },
+    {
+      "start_time": 2436,
+      "end_time": 2438,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " I don't find women I've talked to ever use such metaphors at all."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mel Gussow"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "90c35203-d9c8-4e33-a63c-ee4d18523c6e"
+    },
+    {
+      "start_time": 2438,
+      "end_time": 2439,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " It's so organic when it's really working well."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Alice Walker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "7ec4f1b3-d14c-4456-ba35-a4e1cc8de97e"
+    },
+    {
+      "start_time": 2441,
+      "end_time": 2445,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Well, there's a basic difference between men and women, right?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mel Gussow"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "8cbfe832-94f0-496e-9bd9-4081444cc0dd"
+    },
+    {
+      "start_time": 2446,
+      "end_time": 2456,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Men and women artists."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Alice Walker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "ef073dc3-80ae-4f4f-9f66-b7aa331604a5"
+    },
+    {
+      "start_time": 2456,
+      "end_time": 2462,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Very interesting."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mel Gussow"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "77c02d4a-34a4-4700-9909-b871f5c38d3f"
+    },
+    {
+      "start_time": 2462,
+      "end_time": 2467,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Well, maybe somewhere there's a woman who's creating a table which will turn into a novel, I suppose."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Alice Walker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "2892b7d9-8bf6-4c2b-9efa-52a217e7cb30"
+    },
+    {
+      "start_time": 2467,
+      "end_time": 2472,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " And I understand the love of craft, you know, I mean, that's also a joy.  But what I like is when you get the craft and you kind of, you know, you know you have it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mel Gussow"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "d4aae2b0-8c35-4e83-af53-a3a1f8fbe780"
+    },
+    {
+      "start_time": 2472,
+      "end_time": 2487,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " You can write a sentence that does what it needs to do.  And then you just, you know, go.  I mean, it's like jazz. I mean, it's just like, you know, it just has a life."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Alice Walker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "564285de-f086-4781-a002-358fc991411b"
+    },
+    {
+      "start_time": 2487,
+      "end_time": 2495,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Well, I'll just say, beginning with Color Purple, you wrote the rules.  You aren't supposed to write a novel like that."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mel Gussow"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "27e0f9df-65ec-46f5-abec-bff9b1396ede"
+    },
+    {
+      "start_time": 2495,
+      "end_time": 2496,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Oh, who cares?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Alice Walker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "ed0c7a9b-1772-46a4-a027-6be9a57c571a"
+    },
+    {
+      "start_time": 2497,
+      "end_time": 2506,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Of course.  But I mean, the craft is there, but it's your own adventure."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mel Gussow"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "6d33df48-8f58-4d66-96cc-e952f1b8832e"
+    },
+    {
+      "start_time": 2506,
+      "end_time": 2547,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Right, yeah.  Oh, and that's the joy.  To create books that are just totally, you know, what they are.  I mean, you know, they dictate everything. And, you know, I've tried to write a book that was used in Wednesday before. So I've probably thought about a week or two before I came over. I reread that piece in the Times Magazine some years ago by David Bradley. And I realized, I guess the date was 1984, he actually wrote it before the movie."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Alice Walker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "93ae91a0-7439-40ba-851b-b8c234bbde3d"
+    },
+    {
+      "start_time": 2547,
+      "end_time": 2550,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Yeah, oh yeah."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mel Gussow"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "4b1ed963-46ed-4635-8334-a125f533b0d2"
+    },
+    {
+      "start_time": 2550,
+      "end_time": 2552,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Could you picture what he would have written if he had seen the movie?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Alice Walker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "9c239772-a011-4f97-9dad-ef60ecd52bd9"
+    },
+    {
+      "start_time": 2552,
+      "end_time": 2557,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Oh, God."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mel Gussow"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "c47a8647-8d81-4940-905f-ea529cebce9b"
+    },
+    {
+      "start_time": 2557,
+      "end_time": 2560,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Well, as you know, I got really wrecked over the cold."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Alice Walker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "ef2871bb-ffa9-40f4-97cc-6126d2692d12"
+    },
+    {
+      "start_time": 2560,
+      "end_time": 2561,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Oh, yeah, sure."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mel Gussow"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "279925ba-d22d-4ad0-99ba-a1d1efe05649"
+    },
+    {
+      "start_time": 2561,
+      "end_time": 2562,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " And answered, you know, but still he would have made so much more out of it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Alice Walker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "2a8d7af4-191e-4a88-9986-882d62fd192d"
+    },
+    {
+      "start_time": 2569,
+      "end_time": 2581,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " I'm surprised he never, maybe he did, in fact, come back."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mel Gussow"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "90371256-e7f9-4c98-9d96-abaaf1166d09"
+    },
+    {
+      "start_time": 2581,
+      "end_time": 2593,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Yeah.  That's a subject."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Alice Walker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "0a302891-b251-457c-a304-c08a5bdf5efb"
+    },
+    {
+      "start_time": 2593,
+      "end_time": 2603,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Certainly what my surmise is that the book, the test of the book, including the prizes, changed your life.  But then the movie also did that, don't you think?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mel Gussow"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "38278e9c-3693-4538-82af-243f972bbeae"
+    },
+    {
+      "start_time": 2603,
+      "end_time": 2619,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Well, yeah, and it took a while to really get my legs back, you know."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Alice Walker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "de6b3f6c-0473-4ed0-b8be-7244ad58df7f"
+    },
+    {
+      "start_time": 2619,
+      "end_time": 2630,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " You're welcome."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mel Gussow"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "4796eb6e-b5b0-4869-a2fa-cb4456424376"
+    },
+    {
+      "start_time": 2630,
+      "end_time": 2661,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Because my life had been so quiet and, you know, I would write these books and go out on tour and then I'd come home and that would be it.  I mean, I'd be right back into my life. And with the movie, there was a period of much more intense scrutiny and I was aware of all of the controversy. And it's just, you know, you just feel like something is kind of yanking on you when you know that there are people out there sort of discussing something that you did with just you and the people that you're creating."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Alice Walker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "a10b50cb-9490-4511-a4c9-c281c113333b"
+    },
+    {
+      "start_time": 2661,
+      "end_time": 2664,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " You were happy with it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mel Gussow"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "a509a30c-f799-4a5c-8f2b-5b24d7c07943"
+    },
+    {
+      "start_time": 2664,
+      "end_time": 2667,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Yeah."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Alice Walker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "a0c00d7b-4dac-42e8-b0b6-69922a602263"
+    },
+    {
+      "start_time": 2667,
+      "end_time": 2671,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " You've changed your mind several times about the movie though, too.  Reading that book you wrote about it seems to have changed you."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mel Gussow"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "df80e730-686c-4743-acdd-f196e6390fcb"
+    },
+    {
+      "start_time": 2671,
+      "end_time": 2674,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Yeah, well, I didn't like it at first because, among other things, it's like…"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Alice Walker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "25c16c0f-d4c0-40dd-b8b3-9493664be5e6"
+    },
+    {
+      "start_time": 2674,
+      "end_time": 2693,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Well, it wasn't exactly the book."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mel Gussow"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "cbf076a6-6d14-4a26-8042-7b4b27201624"
+    },
+    {
+      "start_time": 2693,
+      "end_time": 2723,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " No, no, but it never is.  And I really, you know, I'm at peace with that, actually. And I also continue to really love Steven because I think it took a lot of love on his part as well as courage to actually do it. And I really think that we did, all of us working together, you know, on something that for many of those people was completely foreign. I think we did a really good job.  Oh, yum."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Alice Walker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "4e72ac6b-4dd7-4eb5-9656-c731358fa4e7"
+    },
+    {
+      "start_time": 2723,
+      "end_time": 2736,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Doesn't that look good?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mel Gussow"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "a702e1ca-f9b6-4c10-a50f-32e74bf3e73a"
+    },
+    {
+      "start_time": 2736,
+      "end_time": 2738,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Do you still want the radish I take away?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Waiter"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "583409f1-1816-4972-99de-7b744ba143e8"
+    },
+    {
+      "start_time": 2738,
+      "end_time": 2740,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " I don't want anything like that.  Oh, this just looks great."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Alice Walker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "90302429-49ad-439f-8184-c91605c16fe6"
+    },
+    {
+      "start_time": 2740,
+      "end_time": 2751,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " How about your publishers actually come in here?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mel Gussow"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "d7a038ec-35b4-466d-a5d1-42bd387a7683"
+    },
+    {
+      "start_time": 2751,
+      "end_time": 2757,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Really?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Alice Walker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "5816b7e4-b6d9-45f9-a4e9-358b9bc40a9f"
+    },
+    {
+      "start_time": 2757,
+      "end_time": 2761,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " They're in the neighborhood."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mel Gussow"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "b52d115a-1cf8-42ed-94bc-3e2d93964b7a"
+    },
+    {
+      "start_time": 2761,
+      "end_time": 2778,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Oh."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Alice Walker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "5cbd3d2a-cf20-477c-b7e3-88e65fa93963"
+    },
+    {
+      "start_time": 2778,
+      "end_time": 2779,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " When was the last time you saw the movie?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mel Gussow"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "1f948df6-0078-4670-96e4-89b61d8058bb"
+    },
+    {
+      "start_time": 2779,
+      "end_time": 2782,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Oh, years ago.  However, people in my family watch it a lot. I think still. Every once in a while, anyway."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Alice Walker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "5ca11ffc-71af-4345-b6d6-b34562510d60"
+    },
+    {
+      "start_time": 2782,
+      "end_time": 2784,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " It makes me cry."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mel Gussow"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "d6467ea3-31f1-438b-a5d5-b992cef76f0a"
+    },
+    {
+      "start_time": 2785,
+      "end_time": 2791,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " The movie does, yeah."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Alice Walker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "ddd60701-a41d-4180-b6f3-30686362ff0e"
+    },
+    {
+      "start_time": 2791,
+      "end_time": 2805,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Yeah, every time I see it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mel Gussow"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "9e20c0e8-65f0-4fde-8b19-69911132aa68"
+    },
+    {
+      "start_time": 2805,
+      "end_time": 2809,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " The one and only time it did."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Alice Walker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "74d7429e-d6bb-4cff-a36c-2ab1dd7d7795"
+    },
+    {
+      "start_time": 2810,
+      "end_time": 2816,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " I really, it's a very moving film."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mel Gussow"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "6e43daaf-6afc-4932-b83e-ca7de1a17194"
+    },
+    {
+      "start_time": 2816,
+      "end_time": 2818,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Oh, what a good choice."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Alice Walker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "3b021907-fe7a-4ba3-ab70-91c4c950b2b3"
+    },
+    {
+      "start_time": 2818,
+      "end_time": 2825,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " And even though it wasn't a screenplay, it doesn't."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mel Gussow"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "c2625ff9-3bbd-47eb-8f05-7f59201181dd"
+    },
+    {
+      "start_time": 2825,
+      "end_time": 2854,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Well, some of it is because the man who wrote the screenplay would come and say, Oh, Alice, what about this? But no, it's not mine. I mean, I have my, the one that I publish is mine. And you know, I feel that because I was able to publish both the book and my own version of the screenplay, I feel better about the movie because I think for me, so much about life is about learning. It's lessons and things that you can learn from events. You can't control how they come out."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Alice Walker"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcript"
+        }
+      ],
+      "uuid": "e20dfb9e-b758-4b6c-b229-e70679051643"
+    }
+  ],
   "set": "Default",
   "event_id": "89a0de5d-61f6-47df-b501-0b7a9b2532b9",
   "source_id": "695ca964-97ba-4f57-99b7-48aa62f38b1f"
