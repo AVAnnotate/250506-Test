@@ -1,0 +1,33 @@
+{
+  "audiovisual_files": {
+    "8b47f18c-6e74-4a40-a19e-0e49f4407159": {
+      "label": "Interview with Dorothy Gallagher, April 4, 2001 - 2",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "https://server15878.contentdm.oclc.org/dmwebservices/index.php?q=dmGetStreamingFile/p15878coll83/230.mp3/byte/json",
+      "duration": 1384
+    }
+  },
+  "auto_generate_web_page": true,
+  "citation": "Interview with Dorothy Gallagher, Carlyle, 4/4/01 #1-2, 04 April 2001, C_3671_01_01_acc_20170602, Mel Gussow Interview Recordings, Harry Ransom Center, The University of Texas at Austin, Austin, TX. https://hrc.contentdm.oclc.org/digital/collection/p15878coll83/id/228/rec/1",
+  "label": "Interview with Dorothy Gallagher, 4 April 2001",
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mel Gussow interviews author Dorothy Gallagher (1935- ) shortly after the published her first memoir How I Came into My Inheritance (2001). They discuss the book’s critical reception and Gallagher’s writing and research process. The author gives an overview of her career, with emphasis on her early experiences in magazine publishing and on her second book, All the right enemies: the life and murder of Carlo Tresca (1988). Gallagher discusses biographical projects she’s working on, as well as projects she’d like to do. Together, Gussow and Gallagher reflect on their experiences as children of Jewish immigrants from Eastern Europe. They also discuss the recent passing of the film and theatre critic Vincent Canby."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "created_at": "2025-05-06T19:43:10.785Z",
+  "created_by": "SteveMarvin",
+  "updated_at": "2025-05-06T19:43:10.785Z",
+  "updated_by": "SteveMarvin"
+}

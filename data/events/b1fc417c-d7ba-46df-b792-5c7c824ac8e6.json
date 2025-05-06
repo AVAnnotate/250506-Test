@@ -1,0 +1,59 @@
+{
+  "audiovisual_files": {
+    "04c2e4e5-c232-4393-924f-90009c50506f": {
+      "label": "C_4001_01_01_acc_20191119",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "https://server15878.contentdm.oclc.org/dmwebservices/index.php?q=dmGetStreamingFile/p15878coll83/1051.mp3/byte/json",
+      "duration": 21678
+    }
+  },
+  "auto_generate_web_page": true,
+  "citation": "Gussow, Mel and Alice Walker. Interview with Alice Walker. [Audio recording], 12 October 2000, Mel Gussow Interview Recordings, Harry Ransom Center, University of Texas at Austin, Austin, TX.",
+  "label": "Alice Walker Interview, 12 October 2000",
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Tape 1 of 2.",
+              "bold": true
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": " Gussow discusses the Greenwich Village townhouse explosion that destroyed his home in 1970. They discuss themes of opposition to violence in Walker's work. Walker discusses themes of love in her work amidst evil. Walker talks about her family and her writing. Walker talks about her recent book,\"The Way Forward Is with a Broken Heart,\" with stories that deal with care and intimacy in relationships. Walker discusses other work including \"The Color Purple\" and \"Meridian.\" She talks about her time living in Mississippi, the suffering faced by black and non-white communities, and reading and works that influenced her, including Zora Neale Hurston and Leo Tolstoy. She talks about her childhood, meditation, hate, and spiritual beliefs. High Background Noise on Tape; Program Distorted at Times. "
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Tape 2 of 2. ",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Walker and Gussow continue their discussion. Walker discusses how she decides what to write about, she talks about criticism, she talks about \"The Color Purple,\" current politics, her time at Sarah Lawrence College, interviewing Coretta Scott King, and other topics related to her life and work. Side B is Blank; High Background Noise on Tape. "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "created_at": "2025-05-06T19:43:10.785Z",
+  "created_by": "SteveMarvin",
+  "updated_at": "2025-05-06T19:43:10.785Z",
+  "updated_by": "SteveMarvin"
+}

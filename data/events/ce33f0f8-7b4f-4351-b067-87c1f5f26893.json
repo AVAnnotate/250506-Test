@@ -1,0 +1,33 @@
+{
+  "audiovisual_files": {
+    "e832e1b8-8e30-457a-ad54-f7520d4fcbd1": {
+      "label": "Interview with Bill Irwin, February 8, 1983",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "https://server15878.contentdm.oclc.org/dmwebservices/index.php?q=dmGetStreamingFile/p15878coll83/2897.mp3/byte/json",
+      "duration": 90
+    }
+  },
+  "auto_generate_web_page": true,
+  "citation": "‭ Irwin, Bill. Interview with Mel Gussow. 8 February 1983. C 4186. Mel Gussow Collection,‬‭ Harry ‭Ransom Center, University of Texas at Austin.‬‭ Audio cassette.‬",
+  "label": "Interview with Bill Irwin, 8 February 1983",
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bill Irwin (b. 1950) is an American actor, choreographer, director, and clown. In this interview from February 1983, Gussow records Irwin getting a psychic reading from his friend Cathy. The psychic reading covers Irwin’ s work life, marriage, and upcoming trips. Then, Gussow and Irwin talk about Irwin’ s recent performance. They gossip about other figures in the entertainment industry. Irwin discusses hat tricks at length, and apparently practices his tricks for Gussow. Irwin begins tap dancing throughout the conversation, and students begin arriving for his tap class."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "created_at": "2025-05-06T19:43:10.785Z",
+  "created_by": "SteveMarvin",
+  "updated_at": "2025-05-06T19:43:10.785Z",
+  "updated_by": "SteveMarvin"
+}
