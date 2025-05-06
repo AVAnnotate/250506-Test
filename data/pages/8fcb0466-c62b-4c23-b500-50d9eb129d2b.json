@@ -4,11 +4,12 @@
   "created_by": "SteveMarvin",
   "title": "Interview with Mario Vargas Llosa, 25 February 2002",
   "slug": "interview-with-mario-vargas-llosa-25-februar",
-  "updated_at": "2025-05-06T19:43:11.078Z",
+  "updated_at": "2025-05-06T20:18:00.379Z",
   "updated_by": "SteveMarvin",
   "autogenerate": {
     "enabled": true,
     "type": "event",
     "type_id": "d373af79-9350-4e8a-a0e8-7f7fc7f68804"
-  }
+  },
+  "parent": "308e7f3a-2b19-4c2a-abaa-876ae895ea00"
 }
